@@ -1,7 +1,6 @@
 {
-  "name": "tour-of-heroes-angular",
-  "version": "0.0.0",
-  "license": "MIT",
+  "name": "presentation-2018-04-tour-of-heroes-angular",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
